@@ -1,9 +1,10 @@
 #!/bin/bash
 
-echo -n "Nothing.\n"
+echo -e "Nothing."
 
-function my_func {
-  #noop
+function my_func { 
+  noop
 }
+
 
 exit 0

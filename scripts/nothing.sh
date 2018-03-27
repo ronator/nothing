@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "nothing\n"
+echo -n "Nothing.\n"
 
 exit 0

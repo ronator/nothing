@@ -1,5 +1,9 @@
 #!/bin/bash
 
-echo "nothing\n"
+echo -n "Nothing.\n"
+
+function add {
+  noop
+}
 
 exit 0
